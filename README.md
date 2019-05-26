@@ -16,9 +16,11 @@
 
   - [实现一个 react 系列一：JSX 和虚拟 DOM](https://github.com/yangrenmu/blog/issues/9)
 
-      </details>
-    <details>
-      <summary>小程序</summary>
+    - [实现一个 react 系列二：渲染组件](https://github.com/yangrenmu/blog/issues/10)
+
+        </details>
+      <details>
+        <summary>小程序</summary>
 
   - [小程序之蓝牙的使用](https://github.com/yangrenmu/blog/issues/7)
   - [小程序中，iOS 设备获取蓝牙设备的 Mac 地址](https://github.com/yangrenmu/blog/issues/8)
