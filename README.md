@@ -9,6 +9,7 @@
 - [JavaScript 中的作用域和闭包](https://github.com/yangrenmu/blog/issues/4)
 - [JavaScript 中 new 的用处及其实现](https://github.com/yangrenmu/blog/issues/5)
 - [JavaScript 中 call、apply、bind 的简单实现](https://github.com/yangrenmu/blog/issues/6)
+- [JavaScript 的运行机制](https://github.com/yangrenmu/blog/issues/12)
 
 </details>
 <details>
