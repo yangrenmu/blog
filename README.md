@@ -13,7 +13,13 @@
 
 </details>
 <details>
-<summary>react</summary>
+  <summary>Vue</summary>
+
+- [vue 的 nextTick 原理](https://github.com/yangrenmu/blog/issues/14)
+
+    </details>
+  <details>
+  <summary>react</summary>
 
 - [实现一个 react 系列一：JSX 和虚拟 DOM](https://github.com/yangrenmu/blog/issues/9)
 
