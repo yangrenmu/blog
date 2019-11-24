@@ -16,6 +16,7 @@
   <summary>Vue</summary>
 
 - [vue 的 nextTick 原理](https://github.com/yangrenmu/blog/issues/14)
+- [vue 源码阅读一：Vue 的初始化](https://github.com/yangrenmu/blog/issues/15)
 
     </details>
   <details>
