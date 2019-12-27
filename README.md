@@ -18,6 +18,7 @@
 - [vue 的 nextTick 原理](https://github.com/yangrenmu/blog/issues/14)
 - [vue 源码阅读一：Vue 的初始化](https://github.com/yangrenmu/blog/issues/15)
 - [vue 源码阅读二：虚拟 DOM 是如何生成的？（上）](https://github.com/yangrenmu/blog/issues/16)
+- [vue 源码阅读三：虚拟 DOM 是如何生成的？（下）](https://github.com/yangrenmu/blog/issues/17)
 
     </details>
   <details>
