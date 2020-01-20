@@ -24,9 +24,7 @@
 ## React
 
 - [实现一个 react 系列一：JSX 和虚拟 DOM](https://github.com/yangrenmu/blog/issues/9)
-
 - [实现一个 react 系列二：渲染组件](https://github.com/yangrenmu/blog/issues/10)
-
 - [实现一个 react 系列三：生命周期](https://github.com/yangrenmu/blog/issues/11)
 
 ## 小程序
