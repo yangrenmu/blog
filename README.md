@@ -20,6 +20,7 @@
 - [vue 源码阅读三：虚拟 DOM 是如何生成的？（下）](https://github.com/yangrenmu/blog/issues/17)
 - [vue 源码阅读四：虚拟 DOM 是如何渲染成真实的 DOM 的？（上）](https://github.com/yangrenmu/blog/issues/18)
 - [vue 源码阅读五：虚拟 DOM 是如何渲染成真实的 DOM 的？（下）](https://github.com/yangrenmu/blog/issues/19)
+- [vue 源码阅读六：diff 算法](https://github.com/yangrenmu/blog/issues/20)
 
 ## React
 
