@@ -28,6 +28,15 @@
 - [实现一个 react 系列二：渲染组件](https://github.com/yangrenmu/blog/issues/10)
 - [实现一个 react 系列三：生命周期](https://github.com/yangrenmu/blog/issues/11)
 
+## 设计模式
+
+- [JavaScript 设计模式（一）：单例模式](https://github.com/yangrenmu/blog/issues/21)
+- [JavaScript 设计模式（二）：策略模式](https://github.com/yangrenmu/blog/issues/22)
+- [JavaScript 设计模式（三）：代理模式](https://github.com/yangrenmu/blog/issues/23)
+- [JavaScript 设计模式（四）：迭代器模式](https://github.com/yangrenmu/blog/issues/24)
+- [JavaScript 设计模式（五）：发布-订阅模式](https://github.com/yangrenmu/blog/issues/25)
+- [JavaScript 设计模式（六）：命令模式](https://github.com/yangrenmu/blog/issues/26)
+
 ## 小程序
 
 - [小程序之蓝牙的使用](https://github.com/yangrenmu/blog/issues/7)
