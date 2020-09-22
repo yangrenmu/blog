@@ -24,6 +24,8 @@
 - [vue 源码阅读四：虚拟 DOM 是如何渲染成真实的 DOM 的？（上）](https://github.com/yangrenmu/blog/issues/18)
 - [vue 源码阅读五：虚拟 DOM 是如何渲染成真实的 DOM 的？（下）](https://github.com/yangrenmu/blog/issues/19)
 - [vue 源码阅读六：diff 算法](https://github.com/yangrenmu/blog/issues/20)
+- [vue 源码阅读七：响应式原理](https://github.com/yangrenmu/blog/issues/37)
+- [vue2 中使用 composition-api](https://github.com/yangrenmu/blog/issues/28)
 </details>
 
 <details>
@@ -43,6 +45,14 @@
 - [JavaScript 设计模式（四）：迭代器模式](https://github.com/yangrenmu/blog/issues/24)
 - [JavaScript 设计模式（五）：发布-订阅模式](https://github.com/yangrenmu/blog/issues/25)
 - [JavaScript 设计模式（六）：命令模式](https://github.com/yangrenmu/blog/issues/26)
+- [JavaScript 设计模式（七）：组合模式](https://github.com/yangrenmu/blog/issues/29)
+- [JavaScript 设计模式（八）：模板方法模式](https://github.com/yangrenmu/blog/issues/30)
+- [JavaScript 设计模式（九）：享元模式](https://github.com/yangrenmu/blog/issues/31)
+- [JavaScript 设计模式（十）：职责链模式](https://github.com/yangrenmu/blog/issues/32)
+- [JavaScript 设计模式（十一）：中介者模式](https://github.com/yangrenmu/blog/issues/33)
+- [JavaScript 设计模式（十三）：状态模式](https://github.com/yangrenmu/blog/issues/34)
+- [JavaScript 设计模式（十四）：适配器模式](https://github.com/yangrenmu/blog/issues/35)
+- [JavaScript 设计模式（十五）：设计原则](https://github.com/yangrenmu/blog/issues/36)
 </details>
 
 <details>
