@@ -4,6 +4,7 @@
 | :--: | :------------------------------------------------------------: | :--: | :--------------------------------------------------------------------------------------------------------: |
 |  1   |     [两数之和](https://leetcode-cn.com/problems/two-sum/)      | 简单 |  [解法](https://github.com/yangrenmu/blog/blob/master/leetcode/1.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)  |
 | 461  | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/) | 简单 | [解法](https://github.com/yangrenmu/blog/blob/master/leetcode/461.%E6%B1%89%E6%98%8E%E8%B7%9D%E7%A6%BB.md) |
+| 169  | [多数元素](https://leetcode-cn.com/problems/majority-element/) | 简单 |               [解法](https://github.com/yangrenmu/blog/blob/master/leetcode/169.多数元素.md)               |
 
 #### 二叉树
 
