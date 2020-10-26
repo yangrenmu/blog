@@ -6,6 +6,7 @@
 | 461  |                     [汉明距离](https://leetcode-cn.com/problems/hamming-distance/)                     | 简单 | [解法](https://github.com/yangrenmu/blog/blob/master/leetcode/461.%E6%B1%89%E6%98%8E%E8%B7%9D%E7%A6%BB.md) |
 | 169  |                     [多数元素](https://leetcode-cn.com/problems/majority-element/)                     | 简单 |               [解法](https://github.com/yangrenmu/blog/blob/master/leetcode/169.多数元素.md)               |
 | 448  | [找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) | 简单 |       [解法](https://github.com/yangrenmu/blog/blob/master/leetcode/448.找到所有数组中消失的数字.md)       |
+|  70  |                      [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)                       | 简单 |                [解法](https://github.com/yangrenmu/blog/blob/master/leetcode/70.爬楼梯.md)                 |
 
 #### 二叉树
 
