@@ -18,6 +18,7 @@
 
 #### 链表
 
-| 题号 |                               题名                                | 难度 |                                      分析                                      |
-| :--: | :---------------------------------------------------------------: | :--: | :----------------------------------------------------------------------------: |
-| 206  | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | 简单 | [解法](https://github.com/yangrenmu/blog/blob/master/leetcode/206.反转链表.md) |
+| 题号 |                                     题名                                     | 难度 |                                         分析                                          |
+| :--: | :--------------------------------------------------------------------------: | :--: | :-----------------------------------------------------------------------------------: |
+| 206  |      [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)       | 简单 |    [解法](https://github.com/yangrenmu/blog/blob/master/leetcode/206.反转链表.md)     |
+|  21  | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | 简单 | [解法](https://github.com/yangrenmu/blog/blob/master/leetcode/21.合并两个有序链表.md) |
